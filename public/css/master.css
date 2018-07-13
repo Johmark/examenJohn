@@ -1,0 +1,78 @@
+html,
+/* estilos Generales  */
+body
+{
+  font-family: 'Ubuntu', sans-serif;
+  background: #FAFAFA;
+  margin: 0%;
+}
+
+.title
+{
+  margin-top: 5%;
+  margin-left: 10%;
+  font-size: 20px;
+  color: #076cba;
+}
+
+/* estilos para el header  */
+.container
+{
+  background: #076cba;
+  width: 100%;
+  height: 75px;
+  justify-content: center;
+  padding-top: 25px;
+}
+
+.logo
+{
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 15%;
+  font-size: 25px;
+}
+
+.form_input
+{
+  width: 30%;
+  height: 35px;
+  border-radius: 3px;
+  border: 1px solid #FFFFFF;
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn
+{
+  margin-left: 15%;
+  width: 10%;
+  height: 35px;
+  border: 0px;
+  border-radius: 3px;
+  background: #29bcc4;
+  color: #FFFFFF;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* estilos para el footer */
+footer
+{
+  background: #000000;
+  color: #FFFFFF;
+  font-size: 11px;
+  width: 100%;
+  height: 30px;
+  position: fixed;
+  bottom: 0px;
+}
+
+footer p
+{
+  margin-left: 5%;
+}
