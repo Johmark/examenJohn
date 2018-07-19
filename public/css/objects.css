@@ -1,0 +1,115 @@
+/* estilos para el objeto */
+.post
+{
+  margin-top: 3%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.post .postitle
+{
+  width: auto;
+  padding-top: 0.4%;
+  text-align: left;
+  justify-content: center;
+  background: #076cba;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.post .postcontend
+{
+  width: auto;
+  justify-content: center;
+  text-align: left;
+  margin-top: 0%;
+  background: #FFFFFF;
+  border: 1px solid #076cba;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.docTitle
+{
+  margin-left: 20px;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.docDate
+{
+  color: #29bcc4;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.docContend
+{
+    margin: 20px;
+    color: #000000;
+    font-size: 14px;
+}
+
+/* estilos para los los nuevos post   */
+h3
+{
+  margin-top: 5%;
+  margin-left: 9%;
+  font-size: 20px;
+  color: #076cba;
+}
+
+.new
+{
+  margin-top: 2%;
+  margin-left: 10%;
+  width: 80%;
+}
+
+.newTitle
+{
+  width: 100%;
+  height: 40px;
+  border: 2px solid #076cba;
+  border-radius: 4px;
+  padding-left: 10px;
+}
+
+.newContend
+{
+  height: 300px;
+  margin-bottom: 2%;
+  font-size: 14px;
+  padding-top: 2px;
+}
+
+.buttons
+{
+   display: flex;
+   margin-bottom: 50px;
+}
+
+.submit
+{
+  margin-left: 70%;
+}
+
+.cancel
+{
+  background: #D30000;
+  margin-left: 12px;
+}
+
+/* estilos para mensajes de error */
+.errors
+{
+  width: 80%;
+  height: 30px;
+  background: rgba(255, 0, 0, 0.5);
+  border: 2px solid #ff1111;
+  border-radius: 4px;
+  margin-left: 10%;
+  padding-top: 5px;
+  padding-left: 10px;
+}

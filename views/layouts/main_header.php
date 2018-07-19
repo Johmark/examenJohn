@@ -6,9 +6,9 @@ function createMainHeader($head='')
   ?>
   <header>
     <div class="container">
-      <a class="logo" href="./">BRANT BLOG</a>
+      <a class="logo" href="index.php">ISC BLOG</a>
       <input type="search" placeholder="Search" class="form_input">
-      <a href="views/new_post.php">
+      <a href="new_post.php">
         <button type="button" name="button" class="btn">New Post</button>
       </a>
     </div>

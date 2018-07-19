@@ -3,14 +3,14 @@ html,
 body
 {
   font-family: 'Ubuntu', sans-serif;
-  background: #FAFAFA;
+  background: #ddd;
   margin: 0%;
 }
 
 .title
 {
   margin-top: 5%;
-  margin-left: 10%;
+  margin-left: 9%;
   font-size: 20px;
   color: #076cba;
 }
@@ -37,9 +37,10 @@ body
   font-size: 25px;
 }
 
+
 .form_input
 {
-  width: 30%;
+  width: 35%;
   height: 35px;
   border-radius: 3px;
   border: 1px solid #FFFFFF;
