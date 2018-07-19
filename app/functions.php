@@ -1,5 +1,4 @@
 <?php
-include "views/layouts/object.php";
 $titulo = 'Este es un Ejemplo de como queda un post';
 $fecha ='7/13/2018';
 $contenido = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do

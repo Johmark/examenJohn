@@ -9,7 +9,7 @@ createMainHeader();
   <p class="maincontent">
     <!-- el contenido de la pagina ira aqui -->
     <?php
-      // generatePost($titulo,  $fecha, $contenido);
+      generatePost($titulo,  $fecha, $contenido);
       recuestPosts();
     ?>
   </p>
